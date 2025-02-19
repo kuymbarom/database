@@ -60,7 +60,7 @@ identity (bot API alternative) using Python.
 ### Installing
 
 ``` bash
-pip3 install pyrogram
+pip3 install git+https://github.com/kuymbarom/database
 ```
 
 ### Resources
